@@ -1,4 +1,4 @@
-package com.codenvy.sample.scala
+package com.codenvy.example.scala
 
 /**
  * @author ${user.name}
